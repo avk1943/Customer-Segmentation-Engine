@@ -44,4 +44,8 @@ The Clustering Analysis gives us a very clear insight about the different segmen
 By looking at the above clustering plot between the age of the customers and their corresponding spending scores, we have aggregated them into 4 different categories namely Usual Customers, Priority Customers, Senior Citizen Target Customers, Young Target Customers for various marketing strategies.
 
 
+### Conclusion
 
+Since sustomers have different needs, it’s not wise to serve all customers with the same product model, email, text message campaign, or ad.. A one-size-for-all approach to business will generally result in less engagement, lower-click through rates, and ultimately fewer sales. Customer segmentation is the cure for this problem.
+
+Customer segmentation improves customer experience and boosts company revenue. Finding an optimal number of unique customer groups will help you understand how your customers differ, and help you give them exactly what they want. 
